@@ -2,7 +2,7 @@
 def using_for
 	checklist = 1..10
 	
-	for counter in 
+	for counter in checklist
 end
 
 
